@@ -3,6 +3,7 @@ baseurl: /EducationInAfrica.github.io/
 
 # Site settings
 title: Education In Africa
+email: your-email@domain.com
 description: "Investing in young minds as a business model."
 
 
@@ -36,6 +37,24 @@ people:
     - title: github
       url: https://github.com/salimbenghorbel
 
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/
+  - title: facebook
+    url: http://facebook.com/
+  - title: stack-overflow
+    url: http://stackoverflow.com
+  - title: bitbucket 
+    url: http://bitbucket.org
+  - title: github
+    url: http://github.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: RR
+  - line: RR
 
 # Build settings
 markdown: kramdown

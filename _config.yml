@@ -1,4 +1,42 @@
-theme: jekyll-theme-leap-day
-title: Education in Africa
-description: Investing in young minds as a business model.
-             Have a closer look, it may be interesting.
+url: https://ghaliamir.github.io
+baseurl: /EducationInAfrica.github.io/
+
+# Site settings
+title: Education In Africa
+description: "Investing in young minds as a business model."
+
+
+# Team names, titles and social links
+people:
+- name: Amir Ghali
+  pic: Amir
+  field: Data Science
+  social:
+    - title: github
+      url: https://github.com/GhaliAmir
+
+- name: Aymen Bahroun
+  pic: Aymen
+  field: Robotics
+  social:
+    - title: github
+      url: https://github.com/aymenbahroun
+
+- name: Mahmoud Sellami
+  pic: Mahmoud
+  field: Data Science
+  social:
+    - title: github
+      url: https://github.com/sidkom95
+
+- name: Salim Ben Ghorbel
+  pic: Salim
+  field: Robotics
+  social:
+    - title: github
+      url: https://github.com/salimbenghorbel
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

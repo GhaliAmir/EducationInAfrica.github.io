@@ -34,7 +34,12 @@ Here is a list of indicators we may be using:
 #### ETHIOPIA
 
 
-Ethiopia is one of the fastest growing economies in the world. In 2000, its GDP per capita was less than 150 USD/capita. It exceeds 350 USD/capita in 2019. Ethiopia invested heavily in education in the last two decades; more than 30% of its budget in 2012 was invested towards building schools and improving its people's education levels. This endeavour was immediately followed by an incredible increase in economic development indicators. Once they have ensured a secure education system and enough access to education for its people, Ethiopian governments were able to refocus their expenses towards securing other objectives, which is explained by the drop in the percentage of budget directed to education after 2013.
+Ethiopia is one of the fastest growing economies in the world. In 2000, its GDP per capita was less than 150 USD/capita. 
+It exceeds 350 USD/capita in 2019. Ethiopia invested heavily in education in the last two decades; more than 30% of its budget in 2012
+was invested towards building schools and improving its people's education levels. This endeavour was immediately followed by an 
+incredible increase in economic development indicators. Once they have ensured a secure education system and enough access to education 
+for its people, Ethiopian governments were able to refocus their expenses towards securing other objectives, which is explained by the 
+drop in the percentage of budget directed to education after 2013.
 
 ![Image of ethiopia](data/ethopia.jpg ..)
 

@@ -40,16 +40,8 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/
-  - title: facebook
-    url: http://facebook.com/
-  - title: stack-overflow
-    url: http://stackoverflow.com
-  - title: bitbucket 
-    url: http://bitbucket.org
   - title: github
-    url: http://github.com
+    url: https://github.com/salimbenghorbel/Education-In-Africa
 
 # Postal address (add as many lines as necessary)
 address:

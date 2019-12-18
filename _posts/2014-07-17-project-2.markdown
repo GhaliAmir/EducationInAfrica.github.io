@@ -11,7 +11,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Rwanda, a country in central Africa, received its independence from Belgium in 1962. Since then, its history was troubled with internal conflicts between its different ethnic groups, mainly between the Hutu and the Tutsi. These tensions resulted in a civil war between 1990 and 1993 that took the lives of 60'000 people. A year later, in 1994, Rwandan leaders, mainly Hutu, commited one of the biggest human atrocities in the last decade of the 20th century; the Rwandan genocide. The UNO estimates that the lives of 800'000 Rwandans were taken by the ravages, majoritarily from the Tutsi. 
-description_2: 
-description_3: In fact, the genocide's victims were predominantly men, creating a huge gap between the country's male and female population. In consequence, women gained a much more important role in the Rwandan society: they have better access to education and can take leadership positions and contribute better to the economy. This corroborates with our finding on the relationship between women access to education and economical development.
+description_2:
+description_3:
 
 ---

@@ -61,6 +61,14 @@ h6 {
     margin: 0 auto;
 }
 
+.bg-map {
+    background-color: #222;
+    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -374,7 +382,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba({{ site.data.template.color.secondary | hex_to_rgb | join: ',' }},.9); /* Fallback when no plugin support */
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 

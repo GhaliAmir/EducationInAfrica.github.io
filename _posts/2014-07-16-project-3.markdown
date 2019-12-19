@@ -5,16 +5,13 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: Botswana-flag.png
-thumbnail: Botswana-flag.png
+thumbnail: Botswana-graph.png
 independence-date: 1966
 HDI: 0.697687
 Education_index: 0.638689
 description: When gaining its independence in 1966, Botswana was the second poorest country in the world with a GDP per capita of . It had no hospitals, only 3 missionary schools and no universities.
 In the 20th century, Botswana faced two major threats that took extreme effort to surpass. The first one was a major drought that had a considerable impact on the country's food security. With global warming effects getting more and more prominent, Botswana to this day still facing drought and water insufficience. One decade later, in the 1990s, an AIDS pandemic spread into Botswana leading to, in 2000, a rate of 26.9% of the total adult population to be living with AIDS.
-
-
-description_2: Botswana is currently one of the most developed African countries with a Human Development Index of 0.697687.
-It has one of the highest GNI per capita in the continent of 6610.0 USD/capita. Botswana is also the last standing democracy in Africa and ranks in the first 75 percentile in terms of the "World. Governance Ind.: Control of Corruption".
+description_2: Botswana is currently one of the most developed African countries with a Human Development Index of 0.697687. It is famous for its diamond extraction and exports. It has one of the highest GNI per capita in the continent of 6610.0 USD per capita. Botswana is also the last standing democracy in Africa and ranks in the first 75th percentile in terms of the World. Governance Ind.: Control of Corruption.
 description_3:
 
 ---

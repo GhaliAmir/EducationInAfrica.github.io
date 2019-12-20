@@ -2,7 +2,7 @@
 title: Education in dictatorships
 subtitle: Equatorial Guinea vs Tunisia
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2014-07-18
 img: TUN-GNQ-graph.png
 thumbnail: TUN-GNQ-flag.jpeg

@@ -7,9 +7,9 @@ date: 2014-07-18
 img: TUN-GNQ-graph.png
 thumbnail: TUN-GNQ-flag.jpeg
 alt: image-alt
-independence-date: TUN: 1956 / GNQ: 1968
-HDI: TUN: 0.724560 / GNQ: 0.592436
-Education_index: TUN: 0.649547 / GNQ: 0.564290 
+independence-date: TUN - 1956 / GNQ - 1968
+HDI: TUN -  0.724560 / GNQ - 0.592436
+Education_index: TUN -  0.649547 / GNQ - 0.564290 
 description: To see the relevance of the investment in education in the variation of the Human Development Index , we decided to study two politically similar cases -i.e. dictatorship states- but had different strategies towards education. These two countries being Tunisia (TUN) and Equatorial guinea (GNQ). They had both suffered from a dictatorial regime during the period lasting from 1990 until 2010 . They both had 
 high GDP per capita relatively to their African counterparts. In the year 2010 it was 3000 USD for Tunisia and 8000 USD for Equatorial Guinea . However during this period Tunisia invested 25% of its budget in education which allowed it to have stable primary enrollment rates ranging between 106% and 116%.
 Wheras for Equatorial guinea indicator kept decreasing from 150% to 80% due to a lack of investment in education by the government (5.2% in 1998 - from World Bank database).

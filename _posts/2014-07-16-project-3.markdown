@@ -4,8 +4,8 @@ subtitle: When drought and pandemics aren't enough.
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: Botswana-flag.png
-thumbnail: Botswana-graph.png
+img: Botswana-graph.png
+thumbnail: Botswana-flag.png
 independence-date: 1966
 HDI: 0.697687
 Education_index: 0.638689

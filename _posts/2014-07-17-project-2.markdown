@@ -7,7 +7,7 @@ date: 2014-07-17
 img: Rwanda-graph.png
 thumbnail: Rwanda-flag.png
 alt: image-alt
-independence-date: April 2014
+independence-date: 1962
 HDI: 0.497577
 Education_index: 0.520122
 description: Rwanda, a country in central Africa, received its independence from Belgium in 1962. Since then, its history was troubled with internal conflicts between its different ethnic groups, mainly between the Hutu and the Tutsi. These tensions resulted in a civil war between 1990 and 1993 that took the lives of 60'000 people. A year later, in 1994, Rwandan leaders, mainly Hutu, commited one of the biggest human atrocities in the last decade of the 20th century; the Rwandan genocide. The UNO estimates that the lives of 800'000 Rwandans were taken by the ravages, majoritarily from the Tutsi. 

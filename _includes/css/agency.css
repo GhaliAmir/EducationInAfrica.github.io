@@ -61,14 +61,6 @@ h6 {
     margin: 0 auto;
 }
 
-.bg-map {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-
 .bg-light-gray {
     background-color: #f7f7f7;
 }

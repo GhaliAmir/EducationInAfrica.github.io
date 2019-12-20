@@ -1,6 +1,6 @@
 ---
 title: Education in dictatorships
-subtitle: Education produces growth
+subtitle: Equatorial Guinea vs Tunisia
 layout: default
 modal-id: 1
 date: 2014-07-18
